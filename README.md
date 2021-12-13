@@ -1,4 +1,4 @@
-# DA-project
+# Airbnb price prediction-project
 Brief Description
 
 Group: Boom, Boom, Boom!
